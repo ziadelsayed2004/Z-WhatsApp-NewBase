@@ -1,0 +1,2 @@
+versionName=8.0
+webpageUrl=https://ziadelsayed.site/z-whatsapp
