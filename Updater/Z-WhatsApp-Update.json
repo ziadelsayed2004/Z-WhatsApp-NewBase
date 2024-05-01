@@ -1,5 +1,10 @@
 {
-    "VERSION_NAME": "8.0",
-    "WEBSITE_URL": "https://ziadelsayed.site/z-whatsapp",
-    "BACKGROUND_COLOR": "#FFDEF3FC"
+  "records": [
+    {
+      "version": "Z-WhatsApp Version 8.0.0",
+      "code": 8.0,
+      "url": "https://ziadelsayed.site/z-whatsapp",
+      "changelog": " - Update Base v2.24.7.81 -"
+    }
+  ]
 }
