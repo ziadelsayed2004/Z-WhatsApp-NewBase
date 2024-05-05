@@ -1,10 +1,12 @@
 {
   "records": [
     {
-      "version": "Z-WhatsApp Version 8.0.0",
+      "version": "Z-WhatsApp Version 8.0.1",
       "code": 8,
       "url": "https://ziadelsayed.site/z-whatsapp",
-      "changelog": " - Update Base v2.24.7.81 -"
+      "changelog": " - Update Base v2.24.8.85 -
+      - Fixed some bugs -
+      - Beta Version B2 - ZE Mod Lab -"
     }
   ]
 }
